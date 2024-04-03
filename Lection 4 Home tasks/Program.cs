@@ -12,12 +12,16 @@ internal class Program
     {
         Console.WriteLine("Task 1----------------");
         Months.GetMonths();
+
         Console.WriteLine("Task 2----------------");
         EvenNumbers.Get();
+
         Console.WriteLine("Task 3----------------");
         NegativeIncrement.Get();
+
         Console.WriteLine("Task 4----------------");
         ActiveButtons.Click();
+
         Console.WriteLine("Task 6----------------");
         MyRange.Get();
     }
